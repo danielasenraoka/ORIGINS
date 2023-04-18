@@ -34,5 +34,5 @@ diff_activity <- activity(expression_matrix, differentiation_edges)
 
 ## Publication
 
-If you use this code in your research, please cite our publication: [Senra, D., Guisoni, N., & Diambra, L. A. (2022). ORIGINS: A protein network-based approach to quantify cell pluripotency from scRNA-seq data. MethodsX, 9, 101778](https://doi.org/10.1016/j.mex.2022.101778). 
+If you use this code in your research, please cite our publication: [Senra, D., Guisoni, N., & Diambra, L. A. (2022). ORIGINS: A protein network-based approach to quantify cell pluripotency from scRNA-seq data. MethodsX, 9, 101778](https://www.sciencedirect.com/science/article/pii/S2215016122001583). 
 Proper citation is essential for acknowledging the efforts and contributions of the original authors. Thank you!
