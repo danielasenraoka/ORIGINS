@@ -36,3 +36,10 @@ diff_activity <- activity(expression_matrix, differentiation_edges)
 
 If you use this code in your research, please cite our publication: [Senra, D., Guisoni, N., & Diambra, L. A. (2022). ORIGINS: A protein network-based approach to quantify cell pluripotency from scRNA-seq data. MethodsX, 9, 101778](https://www.sciencedirect.com/science/article/pii/S2215016122001583). 
 Proper citation is essential for acknowledging the efforts and contributions of the original authors. Thank you!
+
+## Other versions
+
+We have released an extended version named [ORIGINS2](https://github.com/danielasenraoka/ORIGINS2), which calculates the activity of protein-protein interaction networks (PPIN) associated with any biological processes. This expanded functionality allows to explore a broader range of biological phenomena using the same underlying principles. 
+
+In addition, there is a Python implementation named [PyOrigins](https://github.com/danielasenraoka/PyOrigins).
+
